@@ -1,2 +1,2 @@
 Documento de prueba 
-Para saber como sirve git
+Para saber las funcionalidades de la maravilla git
