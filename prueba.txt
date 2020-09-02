@@ -1,0 +1,2 @@
+Documento de prueba 
+Para saber como sirve git
